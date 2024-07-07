@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+
+.b-box{
+    height:100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap:45px;
+}
+.left{
+    height:100%;
+    width:30%;
+}
+.left h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 3000;
+    font-style: normal;
+    padding-bottom: 9px;
+}
+.link{
+    font-family: "Roboto", sans-serif;
+    font-weight: 350;
+    font-style: normal;
+    
+}
+.left h2{
+    font-family: "Roboto",sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+ul{
+    margin-left:2%;
+}
+.right{
+    height:100%;
+    width:69%;
+    border-left: 2px solid black;
+    padding-left:20px;
+    flex: start;
+}
+.name{
+    font-family: "Roboto",sans-serif;
+    font-weight: 250;
+    font-style: normal;
+    
+
+}
+.right h2{
+    
+    font-family: "Roboto",sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.f_b{
+    font-family: "Roboto",sans-serif;
+    font-weight: 1;
+    font-style: normal;
+}
+span{
+    margin: 0px;
+}
